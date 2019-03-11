@@ -1,0 +1,5 @@
+{
+    "require": {
+        "mathmarques/smarty-view": "^1.1"
+    }
+}
