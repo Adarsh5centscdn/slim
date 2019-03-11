@@ -1,0 +1,2 @@
+# slim
+study slim
